@@ -1,6 +1,12 @@
 from typing import *
 from collections import *
 
+# general idea
+# algorithm ?
+
+# time complexity
+# space complexity
+
 def funtion():
     pass
     # edge cases / impossible cases
