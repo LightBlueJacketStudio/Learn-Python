@@ -6,13 +6,20 @@ from collections import *
 
 # time complexity
 # space complexity
+class Solution:
+    def funtion(self):
+        
+        # edge cases / impossible cases
 
-def funtion():
-    pass
-    # edge cases / impossible cases
-    # normal cases
-
+        # normal cases
+        
+        return "success"
 
 if __name__ == "__main__":
-    print()
+    sol = Solution()
+    
+    # test cases
+
+    print(sol.funtion())
+    
 
