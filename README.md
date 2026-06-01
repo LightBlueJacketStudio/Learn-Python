@@ -11,6 +11,9 @@ Enjoy!
 
 # Notes
 
+Start a python venv:
+`py -<version> -m venv <path>`
+
 ## problem numbers needs to be in xxxx format for the auto ordering that github uses
 
 Problem 5 is still pending
