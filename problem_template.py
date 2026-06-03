@@ -13,7 +13,6 @@ from collections import *
 
 class Solution:
     def funtion(self):
-        
         # edge cases / impossible cases
 
         # normal cases
